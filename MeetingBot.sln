@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26621.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingBot", "Bot Application1\MeetingBot.csproj", "{EFF9D5AF-EF15-4CFC-817F-21EEAED1643E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotAuth", "BotAuth\BotAuth.csproj", "{54162CB7-BBEC-4C8C-B7A9-70144556E3E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotAuth.AADv2", "BotAuth.AADv2\BotAuth.AADv2.csproj", "{32710259-D971-41AE-AD7B-C38985218D54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFF9D5AF-EF15-4CFC-817F-21EEAED1643E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF9D5AF-EF15-4CFC-817F-21EEAED1643E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF9D5AF-EF15-4CFC-817F-21EEAED1643E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF9D5AF-EF15-4CFC-817F-21EEAED1643E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54162CB7-BBEC-4C8C-B7A9-70144556E3E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54162CB7-BBEC-4C8C-B7A9-70144556E3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54162CB7-BBEC-4C8C-B7A9-70144556E3E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54162CB7-BBEC-4C8C-B7A9-70144556E3E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32710259-D971-41AE-AD7B-C38985218D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32710259-D971-41AE-AD7B-C38985218D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32710259-D971-41AE-AD7B-C38985218D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32710259-D971-41AE-AD7B-C38985218D54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F110773D-4554-4C9E-95A1-A8EC79E2DB5B}
+	EndGlobalSection
+EndGlobal
